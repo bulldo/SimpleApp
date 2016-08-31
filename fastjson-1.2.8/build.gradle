@@ -1,0 +1,2 @@
+configurations.maybeCreate("default")
+artifacts.add("default", file('fastjson-1.2.8.jar'))

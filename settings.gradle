@@ -1,0 +1,1 @@
+include ':app', ':fastjson-1.2.8'
